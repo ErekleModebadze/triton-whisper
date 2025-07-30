@@ -5,3 +5,5 @@
 # Deployment
 - It's deployed on Vertex AI according to this guide https://cloud.google.com/vertex-ai/docs/predictions/using-nvidia-triton
 - local.py is for local testing and test.py is for inference on Vertex AI
+
+> The most interesting part is in whisper/1/model.py | local.py | test.py and config.pbtxt
